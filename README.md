@@ -7,6 +7,7 @@ To improve decision-making, enhance operational efficiency, and increase overall
 
 ## Contributions to the Project:
 I played a central role in the project by serving as the primary data analyst and dashboard developer. My contributions included:
+
 **1. Data Gathering and Integration:**
 Using Power Query, I collected and transformed data from various sources. This involved cleaning, filtering, and merging datasets to create a unified data source for analysis.
 
